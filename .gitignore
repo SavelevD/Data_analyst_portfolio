@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 */datasets/*
 */*.csv/*
+*.csv
+*/*.csv
