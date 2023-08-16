@@ -1,10 +1,10 @@
 # Дашборд для [Дзена](https://zen.yandex.ru/)
 
 Ссылки на тетрадь:
-- [ipynb](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Zen/Data_for_dashboard.ipynb)
-- [html](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Zen/Data_for_dashboard.html)
+- [ipynb](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Zen/data_for_dashboard.ipynb)
+- [html](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Zen/data_for_dashboard.html)
 
-[Ссылка на дашборд](https://public.tableau.com/app/profile/dmitriy.savelev/viz/_16912469370800/sheet4)
+[Ссылка на дашборд](https://public.tableau.com/app/profile/dmitriy.savelev/viz/_16912469370800/sheet4)  
 [Ссылка на презентацию](https://disk.yandex.ru/d/tAovAZ42u2iOCA)
 
 ## Техническое задание
