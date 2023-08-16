@@ -1,6 +1,7 @@
 # Анализ A/B-теста интернет-магазина
 
-[Ссылка на тетрадь](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/AB%20test/AB%20test.ipynb)
+[Ссылка на тетрадь]()
+[Ссылка на дашборд](https://public.tableau.com/app/profile/dmitriy.savelev/viz/_16912469370800/sheet4)
 
 ## Цель исследования
 - Выяснить есть ли различия по среднему количеству закзов и среднему чеку между группами.
