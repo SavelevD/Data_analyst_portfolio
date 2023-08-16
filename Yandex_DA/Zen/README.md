@@ -38,5 +38,4 @@
     - `visits` — количество событий.
 - Таблица хранится в базе данных zen-db;
 - Частота обновления данных: один раз в сутки, в полночь по UTC.
-
-## [Макет дашборда](https://3.downloader.disk.yandex.ru/preview/dcf8b286b175615aa7ebefe23ebad848200209a4112d5d6e2d5e11d85e548a15/inf/KVrkbHeJF4dufxAe_5IA5BYBsaFJwikallmI43omNCHscHtBCS8GGsVBnpET_VMqmZCKCB11klsJbbGBK5EIDg%3D%3D?uid=270737516&filename=Untitled_-_2020-07-06T160925.436_1594041010.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=270737516&tknv=v2&size=1200x1771)
+- [Макет дашборда](https://3.downloader.disk.yandex.ru/preview/dcf8b286b175615aa7ebefe23ebad848200209a4112d5d6e2d5e11d85e548a15/inf/KVrkbHeJF4dufxAe_5IA5BYBsaFJwikallmI43omNCHscHtBCS8GGsVBnpET_VMqmZCKCB11klsJbbGBK5EIDg%3D%3D?uid=270737516&filename=Untitled_-_2020-07-06T160925.436_1594041010.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=270737516&tknv=v2&size=1200x1771)
