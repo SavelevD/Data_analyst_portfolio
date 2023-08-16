@@ -4,3 +4,6 @@
 */*.csv/*
 *.csv
 */*.csv
+*/*.geojson/*
+*.geojson
+*/*.geojson
