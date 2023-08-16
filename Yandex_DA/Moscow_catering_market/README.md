@@ -2,7 +2,8 @@
 
 Ссылки на тетрадь:
 - [ipynb](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Moscow_catering_market/Moscow_catering_market.ipynb)
-- [html](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Moscow_catering_market/Moscow_catering_market.html) (рекомендуемый формат, т.к. диаграммы построены на Plotly, а потому не отображаются в .ipynb формате при просмотре на github)
+- [html](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Moscow_catering_market/Moscow_catering_market.html) (рекомендуемый формат, т.к. диаграммы построены на библиотеке plotly, а отображение на карте через folium, а потому не отображаются в .ipynb формате при просмотре на github)  
+[Ссылка на результаты исследования в формате презентации](https://disk.yandex.ru/i/csuPegfBZMGUww)
 
 ## I часть исследования. Исследование рынка заведений общественного питания Москвы
 
@@ -29,5 +30,3 @@
 - Построить визуализации;
 - Дать обоснованные рекомендации для открытия нового заведения;
 - Предоставить рекомендации в виде текста с описанием или маркерами на географической карте.
-
-## [Ссылка на результаты исследования в формате презентации](https://disk.yandex.ru/i/csuPegfBZMGUww)
