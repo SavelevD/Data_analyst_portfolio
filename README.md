@@ -6,7 +6,8 @@
 
 |#|Название проекта|Описание проекта|Стек|
 |-|----------|----------|----------|
-|1|[Анализ A/B-теста интернет-магазина](https://github.com/SavelevD/Data_analyst_portfolio/tree/main/Yandex_DA/AB%20test)|Описание проекта.|pandas</br>numpy</br>scipy</br>matplotlib|
+|1|[Анализ результатов A/A/B-теста для определения влияния нового шрифта на поведение пользователей](https://github.com/SavelevD/Data_analyst_portfolio/tree/main/Yandex_DA/AAB_test)|Исследование результатов A/A/B-теста проводятся с целью установить, есть ли различия в поведении пользователей при внедрении нового шрифта. И как нововведения сказались на воронке продаж.|pandas</br>scipy</br>matplotlib|
 
 ## Контакты
 - [Telegram](https://t.me/savelevdma)
+- [Email](mailto:savelevdma@yandex.ru)
