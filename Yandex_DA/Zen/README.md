@@ -5,7 +5,7 @@
 - [html](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Zen/data_for_dashboard.html)
 
 [Ссылка на дашборд](https://public.tableau.com/app/profile/dmitriy.savelev/viz/_16912469370800/sheet4)  
-[Ссылка на презентацию](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Zen/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%B7%D0%B5%D0%BD%D0%B0.pdf)
+[Ссылка на презентацию](https://disk.yandex.ru/d/tAovAZ42u2iOCA)
 
 ## Техническое задание
 - Бизнес-задача: анализ взаимодействия пользователей с карточками статей [Дзена](https://zen.yandex.ru/);
