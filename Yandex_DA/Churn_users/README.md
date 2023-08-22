@@ -1,8 +1,8 @@
 # Анализ оттока клиентов банка «Метанпром»
 
 Ссылки на тетрадь:
-- [ipynb]()
-- [html]()
+- [ipynb](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Churn_users/Churn_users.ipynb)
+- [html](https://github.com/SavelevD/Data_analyst_portfolio/blob/main/Yandex_DA/Churn_users/Churn_users.html)
 
 ### Цель исследования
 - Снизить отток клиентов банка.
